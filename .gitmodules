@@ -1,0 +1,3 @@
+[submodule "bottchscore"]
+	path = bottchscore
+	url = https://github.com/forlilab/bottchscore.git
