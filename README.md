@@ -8,4 +8,4 @@ Given SMILES, calculate
 - RFI and RCI (ring fusion density, ring complexity index) scores, [ctdTools](https://github.com/HergenrotherLab/ctdTools)
 - fsp3 (fraction sp3 carbons)
 
-**[Demo](http://18.217.200.237)**
+**[Demo](http://molprops.hmol.org)**
