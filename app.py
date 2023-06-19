@@ -8,6 +8,7 @@ h = '''
 <head><title>Molecular Properties</title></head>
 <body>
 <style>
+body { font-family: Arial }
 table { border-collapse: collapse; }
 th, td { border: 1px solid; }
 </style>
