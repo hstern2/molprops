@@ -31,7 +31,7 @@ table { border-collapse: collapse; }
 th, td { border: 1px solid; }
 </style>
 <p>Enter group labels beginning with #, followed by SMILES, one per line. For example,</p>
-<pre>
+<pre style="background-color: #f4f4f4" cols="80">
 # straight-chain alkanes
 CCC
 CCCCC
@@ -41,7 +41,7 @@ CCO
 CC(C)CO
 </pre>
 <form method="post">
-    <textarea name="smiles" rows="10" cols="60"></textarea>
+    <textarea name="smiles" rows=10 style="width: 100%;"></textarea>
     <br>
     <input type="submit" value="get properties">
     <p></p>
