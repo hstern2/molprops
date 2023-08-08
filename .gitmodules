@@ -1,3 +1,6 @@
 [submodule "bottchscore"]
 	path = bottchscore
 	url = https://github.com/forlilab/bottchscore.git
+[submodule "sammon"]
+	path = sammon
+	url = https://github.com/tompollard/sammon.git
