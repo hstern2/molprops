@@ -7,5 +7,3 @@ Given SMILES, calculate
 - Böttcher (molecular complexity) score, [Böttcher, *J. Chem. Inf. Model* **56**, 462 (2016)](https://doi.org/10.1021/acs.jcim.5b00723)
 - RFI and RCI (ring fusion density, ring complexity index) scores, [ctdTools](https://github.com/HergenrotherLab/ctdTools)
 - fsp3 (fraction sp3 carbons)
-
-**[Demo](https://molprops.hmol.org)**
